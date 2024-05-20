@@ -1,0 +1,48 @@
+[submodule "lab1"]
+	path = lab1
+	url = git@github.com:hacker-ops-class/lab1.git
+[submodule "lab2"]
+	path = lab2
+	url = git@github.com:hacker-ops-class/lab2.git
+[submodule "lab3"]
+	path = lab3
+	url = git@github.com:hacker-ops-class/lab3.git
+[submodule "lab4"]
+	path = lab4
+	url = git@github.com:hacker-ops-class/lab4.git
+[submodule "lab5"]
+	path = lab5
+	url = git@github.com:hacker-ops-class/lab5.git
+[submodule "lab6"]
+	path = lab6
+	url = git@github.com:hacker-ops-class/lab6.git
+[submodule "lab7"]
+	path = lab7
+	url = git@github.com:hacker-ops-class/lab7.git
+[submodule "lab8"]
+	path = lab8
+	url = git@github.com:hacker-ops-class/lab8.git
+[submodule "lab9"]
+	path = lab9
+	url = git@github.com:hacker-ops-class/lab9.git
+[submodule "lab10"]
+	path = lab10
+	url = git@github.com:hacker-ops-class/lab10.git
+[submodule "lab11"]
+	path = lab11
+	url = git@github.com:hacker-ops-class/lab11.git
+[submodule "lab12"]
+	path = lab12
+	url = git@github.com:hacker-ops-class/lab12.git
+[submodule "lab13"]
+	path = lab13
+	url = git@github.com:hacker-ops-class/lab13.git
+[submodule "lab14"]
+	path = lab14
+	url = git@github.com:hacker-ops-class/lab14.git
+[submodule "lab15"]
+	path = lab15
+	url = git@github.com:hacker-ops-class/lab15.git
+[submodule "lab16"]
+	path = lab16
+	url = git@github.com:hacker-ops-class/lab16.git
